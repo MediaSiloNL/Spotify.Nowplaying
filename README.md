@@ -1,5 +1,5 @@
 # Spotify.Nowplaying
-Add Spotify Nowplaying function from the use to your NodeJS or ElectronJS project.
+Add Spotify Nowplaying function from the user to your NodeJS or ElectronJS project.
 
 Let the user authorize their account to get the current track they're playing in spotify.
 
