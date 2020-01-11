@@ -67,7 +67,7 @@ spotifyFunctions.getCurrentTrack();
 ```
 
 
-Refresh authorisation token **// Will run in CronJob**::
+Refresh authorisation token **// Will run in CronJob**:
 ```node
 spotifyFunctions.refreshToken();
 ```
@@ -77,7 +77,7 @@ Start callback server **// Will run at start**:
 spotifyFunctions.startCallbackServer();
 ```
 
-Open callback link **// Will run at when accessToken is received**:
+Open callback link **// Will run when accessToken is received**:
 ```node
 spotifyFunctions.openAuthorizeLink();
 ```
