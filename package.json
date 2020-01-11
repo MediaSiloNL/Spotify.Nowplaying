@@ -1,0 +1,24 @@
+{
+  "name": "ms-spotify-nowplaying",
+  "version": "1.0.0",
+  "description": "Spotify NowPlaying",
+  "main": "Spotify.Nowplaying.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Spotify",
+    "Controller",
+    "NowPlaying"
+  ],
+  "author": "MediaSilo NL",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "open": "^7.0.0",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "timexe": "^0.9.19"
+  }
+}
